@@ -1,0 +1,98 @@
+post_id,title,category,score,num_comments,author,collected_at,engagement,is_popular
+47753689,Building a CLI for All of Cloudflare,technology,143,39,soheilpro,2026-04-14 00:16:10,0.2708333333333333,False
+47750872,Servo is now available on crates.io,technology,311,103,ffin,2026-04-14 00:16:11,0.3301282051282051,True
+47752466,MEMS Array Chip Can Project Video the Size of a Grain of Sand,technology,43,16,bookofjoe,2026-04-14 00:16:15,0.36363636363636365,False
+47751621,Initial mainline video capture and camera support for Rockchip RK3588,technology,50,11,mfilion,2026-04-14 00:16:18,0.21568627450980393,False
+47750821,Michigan 'digital age' bills pulled after privacy concerns raised,technology,160,81,iamnothere,2026-04-14 00:16:21,0.5031055900621118,False
+47748064,The economics of software teams: Why most engineering orgs are flying blind,technology,359,214,kiyanwang,2026-04-14 00:16:24,0.5944444444444444,True
+47744255,I ran Gemma 4 as a local model in Codex CLI,technology,213,90,dvaughan,2026-04-14 00:16:40,0.4205607476635514,True
+47719490,I gave every train in New York an instrument,technology,370,70,joshuawolk,2026-04-14 00:16:41,0.18867924528301888,True
+47738978,"We have a 99% email reputation, but Gmail disagrees",technology,342,293,em-bee,2026-04-14 00:16:43,0.8542274052478134,True
+47738883,Tell HN: Docker pull fails in Spain due to football Cloudflare block,technology,1085,397,littlecranky67,2026-04-14 00:16:45,0.36556169429097607,True
+47733217,Exploiting the most prominent AI agent benchmarks,technology,565,137,Anon84,2026-04-14 00:16:46,0.2420494699646643,True
+47750259,Point Cloud Allemansrätten,technology,35,4,ColinWright,2026-04-14 00:16:47,0.1111111111111111,False
+47749674,Show HN: I built a social media management tool in 3 weeks with Claude and Codex,technology,167,111,JanSchu,2026-04-14 00:16:50,0.6607142857142857,False
+47754002,Missouri town fires half its city council over data center deal,technology,89,83,impish9208,2026-04-14 00:16:51,0.9222222222222223,False
+47747017,"Apple's accidental moat: How the ""AI Loser"" may end up winning",technology,375,334,walterbell,2026-04-14 00:16:53,0.8882978723404256,True
+47753643,Claude.ai down,technology,119,118,rob,2026-04-14 00:17:08,0.9833333333333333,False
+47749222,"Caffeine, cocaine, and painkillers detected in sharks from The Bahamas",technology,68,51,LostMyLogin,2026-04-14 00:17:13,0.7391304347826086,False
+47738864,Why AI Sucks at Front End,technology,103,149,tobr,2026-04-14 00:17:18,1.4326923076923077,False
+47743819,Basics of Radar Technology,technology,37,0,_Microft,2026-04-14 00:17:27,0.0,False
+47753026,Categorization Is 'Baked' into the Brain,technology,6,2,XzetaU8,2026-04-14 00:17:31,0.2857142857142857,False
+47741531,"Bouncer: Block ""crypto"", ""rage politics"", and more from your X feed using AI",technology,52,99,steveharing1,2026-04-14 00:17:33,1.8679245283018868,False
+47751265,Rockstar hackers set to release GTA 6 data breach as 'demands not met',technology,15,7,01-_-,2026-04-14 00:17:36,0.4375,False
+47741889,Show HN: Claudraband – Claude Code for the Power User,technology,114,42,halfwhey,2026-04-14 00:17:38,0.3652173913043478,False
+47736555,I run multiple $10K MRR companies on a $20/month tech stack,technology,916,493,tradertef,2026-04-14 00:17:42,0.5376226826608506,True
+47751032,"AI could be the end of the digital wave, not the next big thing",technology,165,240,surprisetalk,2026-04-14 00:17:43,1.4457831325301205,False
+47755118,Palantir Stock Continues to Fall. Not Even the President Can Erase the Losses,worldnews,10,0,1vuio0pswjnm7,2026-04-14 00:18:22,0.0,False
+47728653,"France's government is ditching Windows for Linux, says US tech a strategic risk",worldnews,502,299,pabs3,2026-04-14 00:18:25,0.5944333996023857,True
+47722333,"Chimpanzees in Uganda locked in eight-year 'civil war', say researchers",worldnews,433,276,neversaydie,2026-04-14 00:18:26,0.6359447004608295,True
+47735405,Software Preservation Group: C++ History Collection,worldnews,42,3,quuxplusone,2026-04-14 00:18:33,0.06976744186046512,False
+47752301,Booking.com warns customers of hack that exposed their data,worldnews,12,2,Brajeshwar,2026-04-14 00:19:10,0.15384615384615385,False
+47745261,Vegetative Patients May Be More Aware Than We Knew,worldnews,34,13,bookofjoe,2026-04-14 00:19:27,0.37142857142857144,False
+47745230,Sam Altman's home targeted in second attack,worldnews,145,323,babelfish,2026-04-14 00:19:30,2.212328767123288,False
+47721946,JSON formatter Chrome plugin now closed and injecting adware,worldnews,284,135,jkl5xx,2026-04-14 00:19:39,0.47368421052631576,True
+47695012,USB for Software Developers: An introduction to writing userspace USB drivers,worldnews,409,48,WerWolv,2026-04-14 00:21:09,0.11707317073170732,True
+47695666,Show HN: Druids – Build your own software factory,worldnews,64,15,etherio,2026-04-14 00:21:30,0.23076923076923078,False
+47692043,Muse Spark: Scaling towards personal superintelligence,worldnews,392,367,chabons,2026-04-14 00:21:51,0.9338422391857506,True
+47729994,Polymarket gamblers betting millions on war,worldnews,158,127,sandebert,2026-04-14 00:22:03,0.7987421383647799,False
+47693960,Flashback to a time when government reports were works of art,worldnews,30,12,NaOH,2026-04-14 00:22:24,0.3870967741935484,False
+47718891,Supply chain nightmare: How Rust will be attacked and what we can do to mitigate,worldnews,122,72,fanf2,2026-04-14 00:22:29,0.5853658536585366,False
+47722566,DOJ wants to scrap Watergate-era rule that makes presidential records public,worldnews,261,69,tlhunter,2026-04-14 00:23:05,0.2633587786259542,True
+47718694,"""Negative"" views of Broadcom driving VMware migrations, rival says",worldnews,76,39,breve,2026-04-14 00:23:24,0.5064935064935064,False
+47711623,Mexico's President Sheinbaum Decrees Universal Healthcare for 120M,worldnews,61,32,testing22321,2026-04-14 00:24:34,0.5161290322580645,False
+47727974,"Tesla's supervised self-driving software gets Dutch okay, first in Europe",worldnews,38,19,nsoonhui,2026-04-14 00:24:59,0.48717948717948717,False
+47734106,AI Is Tipping the Scales Toward Hackers After Mythos Release,worldnews,15,7,thywis,2026-04-14 00:25:29,0.4375,False
+47725942,Warez Scene,worldnews,25,7,maltalex,2026-04-14 00:25:35,0.2692307692307692,False
+47737642,Lawyer behind AI psychosis cases warns of mass casualty risks,worldnews,13,6,mentalgear,2026-04-14 00:25:37,0.42857142857142855,False
+47723539,Molotov cocktail attack at OpenAI CEO Sam Altman's home,worldnews,18,1,helloplanets,2026-04-14 00:25:46,0.05263157894736842,False
+47695647,The AI Great Leap Forward,worldnews,135,67,jodah,2026-04-14 00:25:53,0.49264705882352944,False
+47731064,Valve Developer Improves the Linux Gaming Experience for Limited VRAM Hardware,worldnews,13,0,bpierre,2026-04-14 00:25:56,0.0,False
+47753472,Nothing Ever Happens: Polymarket bot that always buys No on non-sports markets,sports,240,94,m-hodges,2026-04-14 00:16:07,0.3900414937759336,True
+47741460,How long-distance couples use digital games to facilitate intimacy (2025),sports,122,37,radeeyate,2026-04-14 00:17:05,0.3008130081300813,False
+47749295,Show HN: Equirect – a Rust VR video player,sports,11,1,greggman65,2026-04-14 00:17:11,0.08333333333333333,False
+47747248,"Haunt, the 70s text adventure game, is now playable on a website",sports,77,24,jscalo,2026-04-14 00:17:41,0.3076923076923077,False
+47698455,Starfling: A one-tap endless orbital slingshot game in a single HTML file,sports,620,152,iceberger2001,2026-04-14 00:18:08,0.24476650563607086,True
+47698111,Bevy game development tutorials and in-depth resources,sports,137,62,GenericCanadian,2026-04-14 00:18:34,0.4492753623188406,False
+47713495,Team from ETH Zurich make high quality quantum swap gate using a geometric phase,sports,237,55,joko42,2026-04-14 00:18:51,0.23109243697478993,True
+47747625,Code Review Is the New Bottleneck for Engineering Teams,sports,13,1,gpi,2026-04-14 00:20:20,0.07142857142857142,False
+47731707,"Rockstar Games Hacked, Hackers Threaten a Massive Data Leak If Not Paid Ransom",sports,109,61,c420,2026-04-14 00:20:37,0.5545454545454546,False
+47689165,"Show HN: I pipe free sports streams into Jellyfin – no ads, just HLS",sports,119,36,pruz,2026-04-14 00:22:02,0.3,False
+47709251,Netflix Prices Went Up Again – I Bought a DVD Player Instead,sports,262,278,speckx,2026-04-14 00:22:11,1.0570342205323193,True
+47689550,"LLM plays an 8-bit Commander X16 game using structured ""smart senses""",sports,28,6,russellharper,2026-04-14 00:22:18,0.20689655172413793,False
+47704430,Can It Resolve Doom? Game Engine in 2k DNS Records,sports,10,2,choult,2026-04-14 00:22:27,0.18181818181818182,False
+47723243,Combining spicy foods with mint boosts anti-inflammatory effects 100x or more,sports,87,49,joeax,2026-04-14 00:22:46,0.5568181818181818,False
+47717514,"Inflation Rose to 3.3% in March, Driven by Rising Fuel Costs",sports,63,3,JumpCrisscross,2026-04-14 00:23:27,0.046875,False
+47730916,QB64 Tutorial A beginner's introduction to game programming,sports,7,0,AlexeyBrin,2026-04-14 00:24:07,0.0,False
+47717565,"Show HN: Steadcast – Free Mac podcast player for learning, not background noise",sports,7,2,steadcast,2026-04-14 00:25:20,0.25,False
+47723499,Beyond Copy-and-Paste: How Game Studios Are Reorganizing Around AI (Research),sports,5,0,pella,2026-04-14 00:25:57,0.0,False
+47733776,"Amazon Luna Will No Longer Allow Owners to Buy Games, Access Game Stores",sports,15,2,surgical_fire,2026-04-14 00:26:17,0.125,False
+47738343,The Physics of GPS,science,153,34,maouida,2026-04-14 00:17:25,0.22077922077922077,False
+47701769,The Bra-and-Girdle Maker That Fashioned the Impossible for NASA,science,133,19,sohkamyung,2026-04-14 00:19:03,0.1417910447761194,False
+47739305,Tell HN: OpenAI silently removed Study Mode from ChatGPT,science,171,74,smokel,2026-04-14 00:19:07,0.43023255813953487,False
+47745543,New metal with triple copper's heat conduction challenges fundamental physics,science,29,11,thunderbong,2026-04-14 00:19:11,0.36666666666666664,False
+47704804,How NASA built Artemis II’s fault-tolerant computer,science,634,234,speckx,2026-04-14 00:19:23,0.36850393700787404,True
+47728323,Relics of the Heroic Age of Manned Space Flight,science,20,1,zdgeier,2026-04-14 00:19:29,0.047619047619047616,False
+47708818,Native Instant Space Switching on macOS,science,641,326,PaulHoule,2026-04-14 00:19:43,0.5077881619937694,True
+47741449,SpaceX holds $603M in Bitcoin despite $5B loss stemming from xAI,science,26,9,lexandstuff,2026-04-14 00:20:24,0.3333333333333333,False
+47706141,Research-Driven Agents: When an agent reads before it codes,science,211,54,hopechong,2026-04-14 00:21:39,0.25471698113207547,True
+47704443,Study found that young adults have grown less hopeful and more angry about AI,science,141,184,elsewhen,2026-04-14 00:23:28,1.295774647887324,False
+47733222,Show HN: Bitcoin and Quantum Computing – a three-part research series,science,6,1,nvk,2026-04-14 00:23:32,0.14285714285714285,False
+47741514,The space science behind 'Project Hail Mary',science,6,0,Brajeshwar,2026-04-14 00:24:50,0.0,False
+47729727,"Researchers used AI to analyze 400k Reddit posts, revealing GLP-1 side effects",science,25,2,giuliomagnifico,2026-04-14 00:25:32,0.07692307692307693,False
+47742200,Show HN: boringBar – a taskbar-style dock replacement for macOS,entertainment,477,272,a-ve,2026-04-14 00:16:34,0.5690376569037657,True
+47739174,Show HN: Oberon System 3 runs natively on Raspberry Pi 3 (with ready SD card),entertainment,230,79,Rochus,2026-04-14 00:16:48,0.341991341991342,True
+47741393,Textbooks and Methods of Note-Taking in Early Modern Europe (2008),entertainment,48,0,mooreds,2026-04-14 00:17:22,0.0,False
+47724352,Filing the corners off my MacBooks,entertainment,1383,660,normanvalentine,2026-04-14 00:17:30,0.476878612716763,True
+47727960,Show HN: Pardonned.com – A searchable database of US Pardons,entertainment,495,269,vidluther,2026-04-14 00:18:00,0.5423387096774194,True
+47743700,European AI. A playbook to own it,entertainment,196,127,hjouneau,2026-04-14 00:18:11,0.6446700507614214,True
+47733066,New synthesis of astronomical measurements shows Hubble tension is real,entertainment,75,14,anigbrowl,2026-04-14 00:18:57,0.18421052631578946,False
+47745300,Show HN: A social feed with no strangers,entertainment,8,5,rpatni,2026-04-14 00:19:12,0.5555555555555556,False
+47721997,Show HN: FluidCAD – Parametric CAD with JavaScript,entertainment,155,37,maouida,2026-04-14 00:19:19,0.23717948717948717,False
+47699470,The Life and Death of the Book Review,entertainment,30,7,lermontov,2026-04-14 00:20:06,0.22580645161290322,False
+47722011,Show HN: A WYSIWYG word processor in Python,entertainment,87,39,chrisecker,2026-04-14 00:20:08,0.4431818181818182,False
+47705413,Show HN: I built a Cargo-like build tool for C/C++,entertainment,174,166,randerson_112,2026-04-14 00:20:12,0.9485714285714286,False
+47721255,Show HN: Eve – Managed OpenClaw for work,entertainment,71,39,zachdive,2026-04-14 00:20:13,0.5416666666666666,False
+47730522,Show HN: Waffle – Native macOS terminal that auto-tiles sessions into a grid,entertainment,38,20,olleeolleeollee,2026-04-14 00:20:22,0.5128205128205128,False
+47702647,"Launch HN: Relvy (YC F24) – On-call runbooks, automated",entertainment,48,25,behat,2026-04-14 00:20:26,0.5102040816326531,False
+47702196,"Show HN: CSS Studio. Design by hand, code by agent",entertainment,172,107,SirHound,2026-04-14 00:20:30,0.6184971098265896,False
